@@ -6,4 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="button_vela">Vela</string>
     <string name="button_aleatorio">Aletório</string>
+    <string name="title_activity_settings">Configurações</string>
+
 </resources>
